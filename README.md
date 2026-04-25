@@ -254,6 +254,7 @@ MIT — voir [`LICENSE`](LICENSE). Les données FBref restent la propriété de 
 **[Fouad MOUTAIROU]**
 - Portfolio : https://portfolio-fouad.netlify.app
 - Github : https://github.com/Fouad-berry
+- LinkedIn : https://www.linkedin.com/in/fouad-moutairou-044460273/
 
 ---
 
